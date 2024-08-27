@@ -1,0 +1,14 @@
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\IntStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\IntStream.AssemblyInfoInputs.cache
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\IntStream.AssemblyInfo.cs
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\IntStream.csproj.CoreCompileInputs.cache
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\bin\Debug\net8.0\IntStream.exe
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\bin\Debug\net8.0\IntStream.deps.json
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\bin\Debug\net8.0\IntStream.runtimeconfig.json
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\bin\Debug\net8.0\IntStream.dll
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\bin\Debug\net8.0\IntStream.pdb
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\IntStream.dll
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\refint\IntStream.dll
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\IntStream.pdb
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\IntStream.genruntimeconfig.cache
+C:\Users\YiğitÇELİK\Source\Repos\IntStream\IntStream\obj\Debug\net8.0\ref\IntStream.dll
